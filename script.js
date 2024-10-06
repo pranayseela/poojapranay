@@ -1,6 +1,6 @@
 const reels = [
     {
-        link: "https://www.instagram.com/reel/DAwkIDoyK2u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        link: "https://www.instagram.com/reel/DAwkIDoyK2u/?utm_source=ig_embed&amp;utm_campaign=loading",
         title: "Reel 1"
     },
     {
