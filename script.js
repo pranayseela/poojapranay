@@ -1,14 +1,14 @@
 const reels = [
     {
-        link: "https://www.instagram.com/reel/EXAMPLE1/embed/",
+        link: "https://www.instagram.com/reel/DAwkIDoyK2u/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         title: "Reel 1"
     },
     {
-        link: "https://www.instagram.com/reel/EXAMPLE2/embed/",
+        link: "https://www.instagram.com/reel/DAtRsglRlLQy45SC_NAtFcVrm8tjNnBZu07m-U0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         title: "Reel 2"
     },
     {
-        link: "https://www.instagram.com/reel/EXAMPLE3/embed/",
+        link: "https://www.instagram.com/reel/DAmRYXCgYP6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
         title: "Reel 3"
     }
 ];
